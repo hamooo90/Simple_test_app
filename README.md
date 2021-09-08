@@ -2,7 +2,7 @@
  This is a simple android app that demostrate unit testing on multiple components of an android app.
 
 ## What does this app do?
- insert an object into database and show it in Recycler view
+ insert an object into database and show it in recycler view
 
 ## Features
 - Kotlin

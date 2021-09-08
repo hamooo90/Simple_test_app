@@ -1,5 +1,5 @@
 # Simple_test_app
- This is a simple android app that demostrate unit testing on multiple components of android app.
+ This is a simple android app that demostrate unit testing on multiple components of an android app.
 
 ## What does this app do?
  insert an object into database and show it in Recycler view
